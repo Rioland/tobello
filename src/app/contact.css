@@ -1,0 +1,47 @@
+.con .navbar-brand img{
+        padding-left: 10px; 
+        width: 100%; 
+        height: 35px;
+      }
+  
+      .con  .about img{
+          width: 100%;
+          height: 250px;
+          object-fit: cover;
+      }
+      .con   .about {
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+      }
+      .con  .text-overlay {
+      position: absolute;
+      top: 50%; 
+      left: 40px; 
+      transform: translateY(-50%);
+      color: white; 
+      font-size: 50px; 
+      font-weight: bold;
+  }
+  .con   .custom-width {
+        max-width: 500px; 
+      }
+      .con    .first h2{
+          font-weight: 700;
+          color: green;
+      }
+      .con .one1{
+          display: flex;
+          
+      }
+      .con   .one2{
+          margin-top: 5px;
+          margin-right: 5px;
+          color: green;
+          
+      }
+      .con  .last{
+       margin-top: 90px;
+       text-align: center;
+       color: white;
+      }

@@ -1,0 +1,103 @@
+.ab .navbar-brand img{
+        padding-left: 10px; 
+        width: 100%; 
+        height: 35px;
+      }
+      .ab  .about img{
+          width: 100%;
+          height: 550px;
+          object-fit: cover;
+      }
+      .ab .about {
+        background-image: url("/about us images/Tobello-Integrated-Services-04.png");
+        background-position: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 300px;
+        width: 100%;
+      /* position: relative;
+     
+      overflow: hidden; */
+  }
+  .ab .text-overlay {
+      position: absolute;
+      top: 50%; 
+      left: 40px; 
+      transform: translateY(-50%);
+      color: green; 
+      font-size: 50px; 
+      font-weight: bold; 
+  }
+  .ab  .first{
+          margin-top: 50px;
+      }
+      .ab .first h2{
+          color: green;
+          font-weight: 700;
+      }
+      .ab  .yess{
+          margin-top: 100px;
+          display: flex;
+          justify-content: space-evenly;
+      }
+      .ab  .image-description{
+          margin-top: 10px;
+          font-weight: 700;
+          
+      }
+      .ab  .image-description h2{
+          color:rgb(83, 83, 243) ;
+  
+      }
+      .ab  .talls-image{
+          width: 80px; 
+        height: 80px; 
+      }
+     
+      .ab  .okay{
+          text-align: center;
+          margin-top: 150px;
+      }
+      .ab  .okay h1{
+          color: green;
+          font-weight: 600;
+      }
+      .ab  .okay2 h4{
+          color: green;
+      }
+      .ab  .no{
+          margin-top: 60px;
+          display: flex;
+      }
+      .ab  .custom-img {
+        width: 100%; 
+        height: auto; 
+      }
+      .ab  .but{
+          text-align: center;
+          margin-top: 120px;
+      }
+      .ab  .but h2{
+          color: green;
+      }
+      .ab .description{
+          margin-top: 3px;
+      }
+      .ab .custom-imgs {
+        width: 100%;
+        height: auto; 
+      }
+      .ab .kk{
+          text-align: left;
+      }
+      .ab .last-image{
+          margin-top: 80px;
+          margin-left: auto;
+          margin-right: auto;
+      }
+     .ab .lasts{
+       margin-top: 90px;
+       text-align: center;
+       color: white;
+       justify-content: space-around;
+      }

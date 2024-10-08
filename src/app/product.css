@@ -1,0 +1,48 @@
+.prod .navbar-brand img {
+  padding-left: 10px;
+  width: 100%;
+  height: 35px;
+}
+
+.prod .image-row img {
+  width: 90%;
+  object-fit: cover;
+}
+
+/* Height for the taller images */
+.prod .tall-image {
+  height: 400px;
+}
+.prod .talls-image {
+  height: 250px;
+}
+.prod .slide-image {
+  height: 200px;
+}
+
+/* Height for the normal images */
+.prod .normal-image {
+  height: 150px;
+}
+
+/* Padding for the description text */
+.prod .image-description {
+  padding: 10px 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.prod .image-row img {
+  transition: transform 0.3s ease-in-out; /* Smooth zoom effect */
+}
+
+.prod .image-row img:hover {
+  transform: scale(1.1);
+}
+.prod .last {
+  margin-left: 100px;
+}
+.prod .lasts {
+  margin-top: 30px;
+  display: flex;
+}

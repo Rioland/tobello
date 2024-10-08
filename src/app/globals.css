@@ -1,0 +1,154 @@
+.navbar-brand img {
+  padding-left: 10px; 
+  width: 100%; 
+  height: 35px;
+}
+.description {
+  background-color: #001f3f; 
+  color: white;
+  padding: 20px;
+  height: 100%;
+}
+.custom-row {
+  margin-left: auto;
+  margin-right: auto;
+}
+.custom-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
+.custom-img1{
+  width: 80px;
+  height: 80px;
+  margin-top: 60px;
+  margin-left: 30px;
+}
+.align-middle {
+  display: flex;
+  align-items: center; 
+  height: 100%; 
+}
+.row.equal-height {
+  height: 500px; 
+}
+.text{
+  color: green;
+  font-weight: 900;
+}
+.button{ 
+  margin-left: 700px;
+}
+.btn{
+  border-radius: 50px;
+  font-weight: 500;
+}
+
+.card {
+  overflow: hidden; 
+}
+
+.card img {
+  transition: transform 0.3s ease-in-out; 
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card:hover img {
+  transform: scale(1.1); 
+}
+
+.card-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.taller-card {
+  height: 300px; 
+}
+
+.standard-card {
+  height: 180px; 
+}
+
+.yes{
+  background-color: rgb(128, 15, 209);
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+.card-body {
+  text-align: center; 
+  padding-top:0px;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.okay{
+    margin-left: 120px;
+
+}
+.light{
+  background-color:rgb(212, 208, 208);
+}
+
+.inline-flex {
+  display: flex;
+  align-items: center; 
+  justify-content: flex-start; 
+}
+
+.inline-flex h3 {
+  margin-left: 15px; 
+  font-size: 1.5rem;
+  margin-top:60px;
+  color: darkgreen;
+  font-weight: 700;
+}
+.inline-flex , p {
+ font-weight: 500;
+}
+.description2 {
+  padding: 20px;
+  height: 100%; 
+}
+
+
+.carousel {
+  width: 100%; 
+  height: 100%; 
+}
+
+.carousel img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
+
+.equal-height {
+  height: 500px; 
+}
+
+.custom-row {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.g-0 {
+  gap: 0; 
+}
+
+
+.carousel-control-prev, .carousel-control-next {
+  width: 5%; 
+}
+
+.last{
+ margin-top: 90px;
+ text-align: center;
+ color: white;
+}
